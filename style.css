@@ -417,7 +417,7 @@ button {
 }
 
 .footer-section h3 {
-    font-weight: bold;
+    font-weight: 500;
     margin-bottom: 10px;
 }
 
@@ -451,6 +451,37 @@ button {
 
 .footer-bottom p:last-child a {
     margin: 0 5px;
+}
+
+.footer-container a {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+.footer-container a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.footer-bottom a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-bottom a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.footer-bottom .special-links a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.footer-bottom .special-links a:hover {
+    color: blue;
+    text-decoration: underline;
 }
 
 /* Fix copyright alignment */
