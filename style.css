@@ -454,6 +454,7 @@ button {
 }
 
 .footer a {
+    color: black;
     color: #f5f5f7;
     text-decoration: none;
     transition: color 0.3s ease, text-decoration 0.3s ease;
