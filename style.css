@@ -397,7 +397,6 @@ button {
     }
 }
 
-
 /* Footer */
 .footer {
     background-color: #f5f5f7;
@@ -453,6 +452,8 @@ button {
     margin: 0 5px;
 }
 
+
+
 .footer-container a {
     text-decoration: none;
     color: inherit;
@@ -496,7 +497,6 @@ button {
     color: #666;
     margin: 0 5px;
 }
-
 
 /* Navbar */
 @media (max-width: 768px) {
