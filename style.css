@@ -571,22 +571,3 @@ button {
         text-align: center;
     }
 }
-
-@media (max-width: 480px) {
-    .footer {
-        padding: 0 20px;
-    }
-
-    .footer-container {
-        gap: 15px;
-    }
-
-    .footer-bottom p {
-        font-size: 10px;
-    }
-
-    .footer-bottom a {
-        font-size: 10px;
-    }
-}
-
